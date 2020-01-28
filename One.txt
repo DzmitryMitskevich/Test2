@@ -4,9 +4,3 @@ From Web-browser
 Open Git Gui
 good job
 ---------------
-
-go in line2
-next level
-
-and back to head
-in three
