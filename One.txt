@@ -6,3 +6,6 @@ good job
 ---------------
 
 Correct in redactor
+
+Correct in git
+
